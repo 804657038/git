@@ -11,4 +11,5 @@ class index{
 }
 $obj=new index;
 $obj->index();
+echo "哈哈";
 ?>

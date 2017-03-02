@@ -13,7 +13,7 @@ $obj=new index;
 $obj->index();
 echo "哈哈";
 echo "哈哈，创建了一个 dev分支";
-$ok=1;
+$ok=11;
 $tk=2;
 if($ok+1==3){
     echo "对比成功";

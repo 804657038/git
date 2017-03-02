@@ -12,4 +12,5 @@ class index{
 $obj=new index;
 $obj->index();
 echo "哈哈";
+echo "哈哈，创建了一个 dev分支";
 ?>
